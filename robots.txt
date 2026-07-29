@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gharbi16.github.io/landingpage.github.io/sitemap.xml
